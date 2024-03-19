@@ -1,3 +1,6 @@
+// ans = (max-1) * (n+1) + no_of_max;
+
+
 class Solution {
     public int leastInterval(char[] tasks, int n) {
         int[] arr = new int[26];
